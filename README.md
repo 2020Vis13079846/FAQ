@@ -8,24 +8,6 @@ The project started one evening in late June 2020 when Ivan Nikolsky was annoyed
 
 Actions used to be the common term as opposed to a function or subroutine. A function is a mathematical entity that has no side effects. A subroutine is something that has side effects but does not return anything.
 
-**C/C++:**
-
-```c
-int main()
-{
-    int num;
-}
-```
-
-**U:**
-
-```
-action main()
-{
-    num int;
-}
-```
-
 An action is a superset of functions and subroutines. An action may or may not return something. An action may or may not have side effects.
 
 ## Why U does not has functions?
