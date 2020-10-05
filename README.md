@@ -2,7 +2,7 @@
 
 ## What is the history of the project?
 
-The project started one evening in late June 2020 when Ivan Nikolsky was annoyed with programming in C. That evening was the point at which Ivan decided to create an entirely new language from scratch than trying to augment C.
+The project started one evening in late June 2020 when someone found out Ivan Nikolsky had plagarised @skiars Berry code and called it Neo. Not wanting to lose the work he had stolen, that evening was the point at which Ivan decided to change the name to UProgLang
 
 ## What is actions?
 
